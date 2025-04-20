@@ -2,7 +2,7 @@ Hi there! Its meeee - testing the xlog framework for my Digital Garden
 
 # Testing some features
 
-## Me
-
+## Counter
+<script async defer data-domain="txm0.github.io" src="https://plausible.io/js/plausible.js"></script>
 ### You
 
