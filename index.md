@@ -13,6 +13,6 @@ I like the following tools:
 
 * :keyboard: Programming
 * :video_game:  Video Games
-* :motorbike: Driving my Motoguzzi V9 Bobber  
+* :bike: Driving my Motoguzzi V9 Bobber  
 * :boat: Driving my boat
 
