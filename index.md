@@ -11,8 +11,9 @@ I like the following tools:
 
 # Hobbies
 
-* :keyboard: Programming
-* :video_game:  Video Games
-* :bike: Driving my Motoguzzi V9 Bobber  
+* :keyboard: Programming (Hardware)
+* :video_game:  Video Games & HomeAutomation (HomeAssistant)
+* :bike: Driving my Bike
 * :boat: Driving my boat
+* :engine: Using my collection of Engines
 
