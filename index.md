@@ -1,3 +1,5 @@
+29-Apr-2025 #Info
+
 Hi there! Its meeee - testing the xlog framework for my Digital Garden. I love #CyberSecurity 
 
 # About me
@@ -6,7 +8,10 @@ Hi there! Its meeee - testing the xlog framework for my Digital Garden. I love #
 
 I like the following tools:
 
-# Websites / Blogs
+# Websites i use
++ HomeLab
+  + [Speedtest](https://www.fast.con)
+
 
 
 # Hobbies
@@ -15,5 +20,4 @@ I like the following tools:
 * :video_game:  Video Games & HomeAutomation (HomeAssistant)
 * :bike: Driving my Bike
 * :boat: Driving my boat
-* :engine: Using my collection of Engines
 
