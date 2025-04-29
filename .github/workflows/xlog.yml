@@ -41,7 +41,7 @@ jobs:
           ../xlog \
           --build . \
           --sitename "txm0" \
-          --activitypub.username=T1m0 \
+          --activitypub.username=t1m0 \
           --theme="light" \
           --codestyle="catppuccin-latte" \
           rm *.md
